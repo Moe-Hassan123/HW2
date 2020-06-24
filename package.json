@@ -1,0 +1,14 @@
+{
+  "name": "hw",
+  "version": "1.0.0",
+  "description": "Mocha Test ",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mohamed",
+  "license": "ISC"
+}
